@@ -51,7 +51,7 @@ div.hotspot img {
 
 div.modal {
   /*viewport height */
-  height: 100vh;
+  height: auto;
   /*viewport width */
   width: 100vw;
   position: fixed;
